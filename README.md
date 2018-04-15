@@ -1,1 +1,1 @@
-## https://github.com/hemeshreddys/wikiapp
+## https://hemeshreddys.github.io/wikiapp/
